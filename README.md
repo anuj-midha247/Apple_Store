@@ -2,7 +2,10 @@
 -----
 ### Only For Educational And Learning Purpose*
 Project: Apple website.
+
+
 Website: https://github.com/anuj-midha247/Apple_Store
+
 For Demo visit this link :- https://apple-estore.netlify.app/
 
 Apple is an E-commerce website used for looking into latest apple products that have been launched and purchase them with various discounts.
